@@ -10,6 +10,9 @@
 ### 클래스 다이어그램
 ![image](https://user-images.githubusercontent.com/97210509/212601826-2b2fc791-41bb-4a5b-994d-72d6cd28a2a2.png)
 
+### ERD 다이어그램
+![image](https://user-images.githubusercontent.com/97210509/212602484-387aff56-3887-4f4c-9013-803df8302b09.png)
+
 ## 화면 목록
 ###  게시물 리스트(게시판) board/listArticle.do
 ![image](https://user-images.githubusercontent.com/97210509/212600129-fa69c186-e5a9-45aa-8567-ae4c008c35fa.png)
