@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/97210509/212601826-2b2fc791-41bb-4a5b-994d-72d6cd28a2a2.png)
 
 ## 화면 목록
-###  게시물 리스트(게시판)
+###  게시물 리스트(게시판) board/listArticle.do
 ![image](https://user-images.githubusercontent.com/97210509/212600129-fa69c186-e5a9-45aa-8567-ae4c008c35fa.png)
 
 ### 게시물 자세히 보기
@@ -20,7 +20,7 @@
 ### 글쓰기 화면
 ![image](https://user-images.githubusercontent.com/97210509/212600213-b04e58fb-9da6-41ea-bbfc-97454ae7509d.png)
 
-### 회원조회 화면
+### 회원조회 화면 mem.do
 ![image](https://user-images.githubusercontent.com/97210509/212601396-433fe9ac-3da1-4c88-8286-f2685f5c5406.png)
 
 
