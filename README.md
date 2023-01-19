@@ -3,7 +3,8 @@
 ## 사용기술 <img src="https://img.shields.io/badge/Java-11-pink"> <img src="https://img.shields.io/badge/JSP-2.3-hotpink"> <img src="https://img.shields.io/badge/Servlet-4.0-skyblue"> <img src="https://img.shields.io/badge/Tomcat-9.0.70-yellow"> <img src="https://img.shields.io/badge/Oracle-11.2.0.2.0-red">
 
 ## 요구사항 명세서
-![게시판 개인 포트폴리오_복사본-005 (1)](https://user-images.githubusercontent.com/97210509/212601229-6fa37753-6ce2-4bfa-81ae-516fa4f86353.png)
+![image](https://user-images.githubusercontent.com/97210509/213355009-c87aece0-6ee6-4d06-ab35-0895075ca071.png)
+
 
 ## 다이어그램
 
