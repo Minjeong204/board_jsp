@@ -15,16 +15,23 @@
 
 ## 화면 목록
 ###  게시물 리스트(게시판) board/listArticle.do
-![image](https://user-images.githubusercontent.com/97210509/212600129-fa69c186-e5a9-45aa-8567-ae4c008c35fa.png)
+![image](https://user-images.githubusercontent.com/97210509/213932124-2a4e4d3d-5dd8-40cf-a111-54957b26e21d.png)
+
 
 ### 게시물 자세히 보기
-![image](https://user-images.githubusercontent.com/97210509/212599953-f9921765-3af7-4762-8b2f-6e0c526a9856.png)
+![image](https://user-images.githubusercontent.com/97210509/213932167-e6a1a3bc-f260-4271-8e11-a498d556354b.png)
+
 
 ### 글쓰기 화면
-![image](https://user-images.githubusercontent.com/97210509/212600213-b04e58fb-9da6-41ea-bbfc-97454ae7509d.png)
+![image](https://user-images.githubusercontent.com/97210509/213932155-dd158731-9221-4745-b526-fb45364bcc99.png)
 
-### 회원조회 화면 mem.do
-![image](https://user-images.githubusercontent.com/97210509/212601396-433fe9ac-3da1-4c88-8286-f2685f5c5406.png)
+### 수정화면
+![image](https://user-images.githubusercontent.com/97210509/213932198-968289d4-3829-4a91-95b4-ea4cea099138.png)
+
+
+### 답글쓰기 화면 
+![image](https://user-images.githubusercontent.com/97210509/213932186-504e3444-47db-4950-912b-941a16c62cd6.png)
+
 
 
 
